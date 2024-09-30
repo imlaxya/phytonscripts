@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: npm run build
+        deploy: npm install
+    subdomain: phytonscripts
+name: phytonscripts
+region: eu-central-1
+yamlVersion: 2
